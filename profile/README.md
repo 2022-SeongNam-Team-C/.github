@@ -69,5 +69,5 @@ git submodule update --recursive --remote
 | Name    | 유희진   |  염태민   | 정혜린  |  정길연    | 구일승    | 최태현    |
 | ------- | -------| ---------| ----- | -------- | ------- | -------- |
 | Profile | <img width="200px" src="https://avatars.githubusercontent.com/u/96467030?v=4" />   | <img width="200px" src="https://avatars.githubusercontent.com/u/48385263?v=4" />  | <img width="200px" src="https://avatars.githubusercontent.com/u/81466548?v=4"/>    | <img width="200px" src="https://avatars.githubusercontent.com/u/52391627?v=4">  | <img width="200px" src="https://avatars.githubusercontent.com/u/112270652?v=4" />  | <img width="200px" src="https://avatars.githubusercontent.com/u/102430422?v=4" />         |
-| Role    | Team Leader, Backend, DevOps  | Frontend, Deploy  | Frontend, Backend   | Backend, DevOps  | Backend, DevOps     | AI, Backend   |
+| Role    | Team Leader, Backend, DevOps  | Frontend, Deploy  | Frontend, Backend   | Backend, DevOps  | Backend, CI/CD     | AI, Backend   |
 | gitHub  | [yu-heejin](https://github.com/yu-heejin) | [TaeMinY](https://github.com/TaeMinY)   | [HAERYN](https://github.com/HAERYN)                        | [gilyeon00](https://github.com/gilyeon00)   | [bun0531](https://github.com/bun0531)   | [xogus2394](https://github.com/xogus2394)  
