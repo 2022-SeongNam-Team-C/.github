@@ -49,6 +49,12 @@ git clone --recursive https://github.com/2022-SeongNam-Team-C/Ladder-docker.git
 
 docker-compose -f docker-compose.yml up -d --build 
 
+git submodule init
+
+git submodule update
+ 
+git submodule update --recursive --remote
+
 ```
 #### If you connect to localhost (or localhost:8080), you can see the browser page!
 
