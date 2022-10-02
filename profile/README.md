@@ -19,7 +19,11 @@
 ### *선과 그림, 그리고 그 속에서 그려질 당신만의 특별한 추억*
  <img width="30%" height ="30%" alt="image" src="https://user-images.githubusercontent.com/112270652/193220867-ba97fca5-72d2-46d7-8bf3-2d48b1191408.jpg"> <img width="30%" height ="30%" alt="KakaoTalk_20220822_224722265" src="https://user-images.githubusercontent.com/112270652/193220179-c2b290ce-0d2d-486a-b8c3-d11fa8439203.png">
 
-#### 해당 사진에서 아이디어를 얻어, 사진 속 사람을 인식하여 그림으로 바꿔주는 사이트를 제작하게 되었습니다.
+#### 특별한 순간을 더 특별하게 만들어드립니다! 추억을 이어주는 사다리가 되어드릴게요 💕🥰  
+해당 사진에서 아이디어를 얻어, 사진 속 사람을 인식하여 그림으로 바꿔주는 사이트를 제작하게 되었습니다.  
+사이트에 접속한 후 원하시는 사진을 업로드하면, 사람을 그림처럼 변환해드려요 ☺️  
+이메일, 카카오톡 및 페이스북과 같은 SNS로 친구와 더욱 특별한 추억을 공유해보실 수도 있습니다!  
+추가적으로 회원가입을 하시면, History 페이지에서 지금까지 변환된 사진들을 한눈에 볼 수 있어요
 
 # 2. 아키텍처
 ![아키텍처](https://user-images.githubusercontent.com/112270652/193219756-00b23a79-14d8-4af4-a492-8abcc38433e0.png)
@@ -35,8 +39,6 @@
 | **Others**     |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">    |
 
 
-
-
 # 4. 실행 방법
 ## start 
 
@@ -45,23 +47,15 @@ cd “YOUR_DOWNLOAD_LOCATION”
 
 git clone --recursive https://github.com/2022-SeongNam-Team-C/Ladder-docker.git
 
-docker-compose -f docker-compose.yml up -d --build
+docker-compose -f docker-compose.yml up -d --build 
 
 ```
-## docker-compose redis 사용법
-
-```jsx
-redis 사용법
-   - docker exec -it redis redis-cli
-	 - get ${keyname} 으로 해당 아이디의 토큰을 조회할 수 있음
-   - 종료는 ctrl + z
-   - port number: 6379
-```
+#### If you connect to localhost (or localhost:8080), you can see the browser page!
 
 # 5. Feature
 ### 회원가입
-
 # 6. Demo
+[DEMO](https://youtu.be/Nz3yOyP5lSo)
 # 7. Team mates
 
 
