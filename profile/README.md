@@ -10,7 +10,8 @@
 - [4. 실행 방법](#4-실행-방법)
 - [5. Feature](#5-Feature)
 - [6. Demo](#6-Demo)
-- [7. 팀원](#7-팀원)
+- [7. About This Project](#7-About This Project)
+- [8. 팀원](#7-팀원)
 
 
 
@@ -62,7 +63,9 @@ git submodule update --recursive --remote
 ### 회원가입
 # 6. Demo
 [DEMO](https://youtu.be/Nz3yOyP5lSo)
-# 7. Team mates
+# 7. About This Project
+[About](https://medium.com/@jenny00120855/2022-seongnam-ai-free-internship-bootcamp-ladder-line-and-drawing-draw-especial-recollection-e9af3222666d)
+# 8. Team mates
 
 
 | Name    | 유희진   |  염태민   | 정혜린  |  정길연    | 구일승    | 최태현    |
@@ -70,4 +73,3 @@ git submodule update --recursive --remote
 | Profile | <img width="200px" src="https://avatars.githubusercontent.com/u/96467030?v=4" />   | <img width="200px" src="https://avatars.githubusercontent.com/u/48385263?v=4" />  | <img width="200px" src="https://avatars.githubusercontent.com/u/81466548?v=4"/>    | <img width="200px" src="https://avatars.githubusercontent.com/u/52391627?v=4">  | <img width="200px" src="https://avatars.githubusercontent.com/u/112270652?v=4" />  | <img width="200px" src="https://avatars.githubusercontent.com/u/102430422?v=4" />         |
 | Role    | Team Leader, Backend, DevOps  | Frontend  | Frontend, Backend   | Backend, DevOps  | Backend, DevOps     | AI, Backend   |
 | gitHub  | [yu-heejin](https://github.com/yu-heejin) | [TaeMinY](https://github.com/TaeMinY)   | [HAERYN](https://github.com/HAERYN)                        | [gilyeon00](https://github.com/gilyeon00)   | [bun0531](https://github.com/bun0531)   | [xogus2394](https://github.com/xogus2394)  
-
