@@ -1,7 +1,7 @@
 # Ladder
 ### *Ladder (Line And Drawing, Draw Especial Recollection) - 당신과 추억을 이어주는 사다리*
 
-
+### [About This Project 💞](https://medium.com/@jenny00120855/2022-seongnam-ai-free-internship-bootcamp-ladder-line-and-drawing-draw-especial-recollection-e9af3222666d)
 
 # 목차
 - [1. 소개](#1-소개)
@@ -10,8 +10,7 @@
 - [4. 실행 방법](#4-실행-방법)
 - [5. Feature](#5-Feature)
 - [6. Demo](#6-Demo)
-- [7. About This Project](#7-About This Project)
-- [8. 팀원](#7-팀원)
+- [7. 팀원](#7-팀원)
 
 
 
@@ -63,9 +62,8 @@ git submodule update --recursive --remote
 ### 회원가입
 # 6. Demo
 [DEMO](https://youtu.be/Nz3yOyP5lSo)
-# 7. About This Project
-[About](https://medium.com/@jenny00120855/2022-seongnam-ai-free-internship-bootcamp-ladder-line-and-drawing-draw-especial-recollection-e9af3222666d)
-# 8. Team mates
+
+# 7. Team mates
 
 
 | Name    | 유희진   |  염태민   | 정혜린  |  정길연    | 구일승    | 최태현    |
